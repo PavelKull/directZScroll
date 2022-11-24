@@ -60,7 +60,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: var(--transition), opacity .075s ease;
+    transition: var(--transition), opacity .75s ease;
     will-change: transform;
     transform-style: preserve-3d;
 }
